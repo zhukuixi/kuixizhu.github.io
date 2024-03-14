@@ -21,10 +21,10 @@ repository               : "zhukuixi/zhukuixi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Kuixi Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Data scientist with biomedical informatics background"
+  bio              : "Data Scientist"
   location         : "New York"
   employer         : "BIO5 Institute"
   uri              : # URL
@@ -36,11 +36,11 @@ author:
 
   # Repositories and software development
   github           : "zhukuixi"
-  kaggle           : # kuixizhu  
+  kaggle           :  "kuixizhu"
 
   # Social media
-  linkedin         : # kuixizhu
-  medium           : # https://medium.com/@quishzhu
+  linkedin         : "kuixizhu"
+  medium           :  "https://medium.com/@quishzhu"
 
 
 
