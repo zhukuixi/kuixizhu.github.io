@@ -1,6 +1,6 @@
 ---
 
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/IBM.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/IBM_small.png'>"
 title: "IBM Watson Community Article Recommendation System"
 collection: portfolio
 ---
